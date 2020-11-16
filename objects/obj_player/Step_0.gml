@@ -419,5 +419,5 @@ if (l11A99EB5_0)
 /// @DnDVersion : 1
 /// @DnDHash : 11B7F26B
 /// @DnDArgument : "expr" "sprite_[player.move, direction_facing_]"
-/// @DnDArgument : "var" "direction_facing_"
-direction_facing_ = sprite_[player.move, direction_facing_];
+/// @DnDArgument : "var" "sprite_index"
+sprite_index = sprite_[player.move, direction_facing_];
