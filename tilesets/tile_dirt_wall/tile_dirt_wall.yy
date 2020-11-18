@@ -1,5 +1,4 @@
 {
-  "name": "tile_dirt_wall",
   "spriteId": {
     "name": "spr_dirtwall_tileset",
     "path": "sprites/spr_dirtwall_tileset/spr_dirtwall_tileset.yy",
@@ -74,6 +73,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tile_dirt_wall",
   "tags": [],
   "resourceType": "GMTileSet",
 }
