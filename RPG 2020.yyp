@@ -8,6 +8,7 @@
     {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},"order":9,},
     {"id":{"name":"spr_player_attack_up_strip4","path":"sprites/spr_player_attack_up_strip4/spr_player_attack_up_strip4.yy",},"order":4,},
     {"id":{"name":"spr_player_attack_right_strip4","path":"sprites/spr_player_attack_right_strip4/spr_player_attack_right_strip4.yy",},"order":5,},
+    {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":8,},
     {"id":{"name":"apply_friction_to_movement_entity","path":"scripts/apply_friction_to_movement_entity/apply_friction_to_movement_entity.yy",},"order":1,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":6,},
     {"id":{"name":"spr_dirtpath_tileset","path":"sprites/spr_dirtpath_tileset/spr_dirtpath_tileset.yy",},"order":0,},
