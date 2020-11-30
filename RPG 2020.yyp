@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_player_roll_up_strip5","path":"sprites/spr_player_roll_up_strip5/spr_player_roll_up_strip5.yy",},"order":7,},
     {"id":{"name":"add_movement_maxspeed","path":"scripts/add_movement_maxspeed/add_movement_maxspeed.yy",},"order":0,},
     {"id":{"name":"get_direction_facing","path":"scripts/get_direction_facing/get_direction_facing.yy",},"order":0,},
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":3,},
@@ -9,6 +10,7 @@
     {"id":{"name":"spr_player_attack_up_strip4","path":"sprites/spr_player_attack_up_strip4/spr_player_attack_up_strip4.yy",},"order":4,},
     {"id":{"name":"spr_player_attack_right_strip4","path":"sprites/spr_player_attack_right_strip4/spr_player_attack_right_strip4.yy",},"order":5,},
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":8,},
+    {"id":{"name":"spr_player_roll_down_strip5","path":"sprites/spr_player_roll_down_strip5/spr_player_roll_down_strip5.yy",},"order":8,},
     {"id":{"name":"apply_friction_to_movement_entity","path":"scripts/apply_friction_to_movement_entity/apply_friction_to_movement_entity.yy",},"order":1,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":6,},
     {"id":{"name":"spr_dirtpath_tileset","path":"sprites/spr_dirtpath_tileset/spr_dirtpath_tileset.yy",},"order":0,},
@@ -18,6 +20,7 @@
     {"id":{"name":"spr_grass_background","path":"sprites/spr_grass_background/spr_grass_background.yy",},"order":2,},
     {"id":{"name":"spr_player_run_up_strip6","path":"sprites/spr_player_run_up_strip6/spr_player_run_up_strip6.yy",},"order":2,},
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":4,},
+    {"id":{"name":"spr_player_roll_right_strip5","path":"sprites/spr_player_roll_right_strip5/spr_player_roll_right_strip5.yy",},"order":6,},
     {"id":{"name":"tile_dirt_path","path":"tilesets/tile_dirt_path/tile_dirt_path.yy",},"order":1,},
     {"id":{"name":"spr_player_run_right_strip6","path":"sprites/spr_player_run_right_strip6/spr_player_run_right_strip6.yy",},"order":1,},
     {"id":{"name":"tile_dirt_wall","path":"tilesets/tile_dirt_wall/tile_dirt_wall.yy",},"order":0,},
